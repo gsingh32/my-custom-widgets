@@ -186,7 +186,7 @@
       "type": "first_custom_widget",
       "source": {
         "path": "widgets/first_custom_widget/dist",
-        "entry": "index.html"
+        "entry": "content.html"
       },
       "imageSrc": "widgets/first_custom_widget/thumbnail.png"
     },
